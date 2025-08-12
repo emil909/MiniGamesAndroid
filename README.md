@@ -1,4 +1,4 @@
-# 🐶 Doris: Flappy Pup 🎾
+# Dobbers flapping
 
 A Flappy Bird–style Android game starring **Doris** the dog.  
 Tap to fly, dodge pipes, and grab **tennis balls** for extra points.  
@@ -6,7 +6,7 @@ Your **high score** is saved locally with SharedPreferences.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/3333243b-98ca-4790-a50b-928bb10a849a" alt="Gameplay 1" width="260" />
@@ -15,7 +15,7 @@ Your **high score** is saved locally with SharedPreferences.
 
 ---
 
-## 🎮 How to Play
+## How to Play
 - **Tap** to keep Doris flying  
 - Pass pipes = **+1 point**  
 - Grab tennis balls = **+1 points**  
@@ -24,7 +24,7 @@ Your **high score** is saved locally with SharedPreferences.
 
 ---
 
-## ⚙️ Features
+## Features
 - Cute custom Doris sprite  
 - Bonus pickups for extra challenge  
 - Persistent high score with SharedPreferences  
@@ -32,7 +32,7 @@ Your **high score** is saved locally with SharedPreferences.
 
 ---
 
-## 🛠 Tech
+## Tech
 - **Language:** Kotlin  
 - **Storage:** SharedPreferences  
 - **Target:** Android 8.0+  
